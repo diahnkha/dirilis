@@ -1,0 +1,98 @@
+body{
+  text-align: center;
+    background-color: #fff;
+}
+
+.nambahpad1{
+padding: 10px 50px;
+}
+
+/* jarak-pf1-pf2-cv */
+.nav-item{
+  padding-left: 30px;
+}
+
+.nav-link{
+  text-align: left;
+}
+
+.navbar-brand{
+  font-weight: bolder;
+}
+
+.pertama{
+  background-color: #006a71;
+  height: 560px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.judulutama{
+  top: 310px;
+  right: 150px;
+  position: absolute;
+}
+
+h1{
+  font-size: 4rem;
+  color: #fff;
+}
+
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 40px;
+  }
+
+  .judulutama{
+    right: 40px;
+  }
+}
+
+.kedua{
+  background-color: #ffffdd;
+  height: 600px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.ketiga{
+  background-color: #cbeaed;
+  height: 620px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.keempat{
+  background-color: #f6f4e6;
+  height: 450px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.kelima{
+  background-color: #d3de32;
+  height: 500px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.keenam{
+  background-color: #fff;
+  height: 560px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.ketujuh{
+  background-color: #f7d6bf;
+  height: 150px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
